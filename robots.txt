@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-w9g8a5.fivedepositcasino.co.nz/sitemap.xml
